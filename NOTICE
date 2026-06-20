@@ -1,0 +1,17 @@
+Kaggle Learn Pandas exercise material
+
+This repository contains a modified derivative of exercise notebooks from:
+https://github.com/Kaggle/learntools
+
+Source files:
+notebooks/pandas/raw/ex_0.ipynb through ex_5.ipynb
+Reference commit:
+8a8d4450a699c864febc419fb27ec41443a5942b
+
+Modifications:
+- Combined six exercise notebooks into one notebook.
+- Reorganized every exercise into problem, answer-input, and solution/explanation cells.
+- Added Japanese summaries and code explanations.
+- Removed learntools answer-checking calls from the standalone learning notebook.
+
+The original work is licensed under the Apache License, Version 2.0.
