@@ -13,5 +13,8 @@ Modifications:
 - Reorganized every exercise into problem, answer-input, and solution/explanation cells.
 - Added Japanese summaries and code explanations.
 - Removed learntools answer-checking calls from the standalone learning notebook.
+- Removed file-reading and file-writing exercises.
+- Replaced external datasets with deterministic DataFrames created inside the notebook.
+- Added an executable final self-check.
 
 The original work is licensed under the Apache License, Version 2.0.
